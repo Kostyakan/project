@@ -19,6 +19,7 @@ console. log (persone.name);
 
 let arr = ['plun.png','orange.jpg','apple.bnp'];
 
+
 console.log(arr[0]);
 
 // alert ("Helolo World");
